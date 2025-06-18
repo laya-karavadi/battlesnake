@@ -9,7 +9,7 @@ Battlesnake is a competitive programming game where you control a snake on a gri
 ## 📁 Project Structure
 
 ```
-battlesnake/
+battlesnake-python/
 ├── main.py          # Intelligent snake with minimax algorithm
 ├── simple.py        # Simple random-move snake for testing
 ├── server.py        # Flask server to handle Battlesnake API
